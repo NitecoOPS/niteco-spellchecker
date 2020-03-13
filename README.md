@@ -1,0 +1,2 @@
+# niteco-spellchecker
+TinyMCE Plugin
